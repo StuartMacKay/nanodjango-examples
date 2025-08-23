@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Ignore dot files and folders except those required for the project
+.*
+!.envrc
+!.gitignore
+!.gitkeep
+!.python-version
