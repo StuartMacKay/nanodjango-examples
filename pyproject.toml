@@ -8,5 +8,10 @@ dependencies = [
     "nanodjango>=0.11.2",
 ]
 
+[project.urls]
+Repository = "https://github.com/StuartMacKay/nanodjango-examples.git"
+Issues = "https://github.com/StuartMacKay/nanodjango-examples/issues"
+Changelog = "https://github.com/StuartMacKay/nanodjango-examples/blob/master/CHANGELOG.md"
+
 [dependency-groups]
 dev = []
