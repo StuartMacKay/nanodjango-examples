@@ -1,3 +1,10 @@
+"""
+  hello_world.py
+
+  The canonical example which demonstrates some of the syntax used to create
+  a single-page Django app.
+
+"""
 from nanodjango import Django
 
 app = Django()
