@@ -14,4 +14,6 @@ Issues = "https://github.com/StuartMacKay/nanodjango-examples/issues"
 Changelog = "https://github.com/StuartMacKay/nanodjango-examples/blob/master/CHANGELOG.md"
 
 [dependency-groups]
-dev = []
+dev = [
+    "ruff>=0.12.10",
+]
